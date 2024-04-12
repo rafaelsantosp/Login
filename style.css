@@ -1,0 +1,44 @@
+h2{
+    text-align: center;
+    background-color: rgb(180, 180, 180);
+    color: rgb(0, 0, 0);
+}
+form{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+#botao1{
+    background: #0066A2;
+color: white;
+border-style: outset;
+border-color: #0066A2;
+height: 50px;
+width: 100px;
+font: bold 15px arial,sans-serif;
+text-shadow: none;
+}
+.form-group{
+    width: 100vw;
+}
+#body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    background: #0066A2;
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 50px;
+    width: 100px;
+    font: bold 15px arial,sans-serif;
+    text-shadow: none;
+    margin-top: 25px;
+}
